@@ -1,0 +1,61 @@
+body {
+      
+}
+
+.head11 {
+    position: relative;
+    text-align: center; 
+}
+
+nav.lists {
+    list-style-type: none;
+    padding: 0rem 4rem;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center; /* Centers the navigation items */
+    background-color: dimgrey;
+    padding: 1rem;
+}
+
+nav.lists li {
+    display: inline;
+    margin: 15px;
+    color: lightblue; /* Adjust text color as needed */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white;
+}
+
+marquee ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+marquee ul li {
+    margin-right: 20px; /* Adds spacing between items in the marquee */
+}
+.row{
+    
+    display: inline-flex;
+    padding-left: 5rem;
+    list-style-type: none;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.row li{
+    
+    padding: 40px;
+}
+.container{
+    align-content: center;
+    padding-left: 8rem;
+}
+
+ 
